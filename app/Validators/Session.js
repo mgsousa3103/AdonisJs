@@ -11,7 +11,7 @@ class Session {
     return {
       // validation rules
       email: 'required|email',
-      password: 'required|',
+      password: 'required',
     }
   }
 
